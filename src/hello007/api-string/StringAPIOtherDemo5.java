@@ -1,4 +1,4 @@
-package com.itheima.string;
+package hello007.api;
 
 /**
     目标：掌握String常用的其他API。

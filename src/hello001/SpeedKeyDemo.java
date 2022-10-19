@@ -1,4 +1,4 @@
-package hello01;
+package hello001;
 
 public class SpeedKeyDemo {
     public static void main(String[] args) {

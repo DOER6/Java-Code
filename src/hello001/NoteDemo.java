@@ -1,4 +1,4 @@
-package hello01;
+package hello001;
 
 /**
  目标：学习注释的使用

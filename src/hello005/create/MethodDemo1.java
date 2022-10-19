@@ -1,4 +1,4 @@
-package com.itheima.create;
+package hello005.create;
 
 /**
       目标：能够说出使用方法的优点：

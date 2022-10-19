@@ -1,4 +1,4 @@
-package com.itheima.arraylist;
+package hello007.api;
 
 public class Movie {
     private String name;

@@ -1,4 +1,4 @@
-package com.itheima.param;
+package hello005.param;
 
 public class MethodDemo1 {
     public static void main(String[] args) {

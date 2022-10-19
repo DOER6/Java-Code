@@ -1,4 +1,4 @@
-package com.itheima.param;
+package hello005.param;
 
 public class MethodDemo2 {
     public static void main(String[] args) { // 黄波  人生导师！！   拓展培训！

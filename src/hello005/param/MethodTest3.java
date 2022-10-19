@@ -1,4 +1,4 @@
-package com.itheima.param;
+package hello005.param;
 
 public class MethodTest3 {
     public static void main(String[] args) {

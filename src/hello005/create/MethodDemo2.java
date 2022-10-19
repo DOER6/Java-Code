@@ -1,4 +1,4 @@
-package com.itheima.create;
+package hello005.create;
 
 public class MethodDemo2 {
     public static void main(String[] args) {

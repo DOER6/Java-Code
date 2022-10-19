@@ -1,4 +1,4 @@
-package com.itheima.demo;
+package hello004.demo;
 
 import java.util.Random;
 import java.util.Scanner;

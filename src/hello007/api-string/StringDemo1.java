@@ -1,4 +1,4 @@
-package com.itheima.string;
+package hello007.api;
 
 /**
      目标：了解String类的特点：String类不可变的原理。

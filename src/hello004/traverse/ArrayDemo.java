@@ -1,4 +1,4 @@
-package com.itheima.traverse;
+package hello004.traverse;
 
 public class ArrayDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.itheima.string;
+package hello007.api;
 
 public class StringDemo3 {
     public static void main(String[] args) {

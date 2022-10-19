@@ -1,4 +1,4 @@
-package com.itheima.string;
+package hello007.api;
 
 /**
     目标：String类创建字符串对象的2种方式

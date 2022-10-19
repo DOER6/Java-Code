@@ -1,4 +1,4 @@
-package com.itheima.overload;
+package hello005.overload;
 
 public class MethodDemo2 {
     // 新方法

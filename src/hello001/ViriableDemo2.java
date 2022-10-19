@@ -1,4 +1,4 @@
-package hello01;
+package hello001;
 
 public class ViriableDemo2 {
 

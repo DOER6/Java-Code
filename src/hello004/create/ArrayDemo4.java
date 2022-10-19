@@ -1,4 +1,4 @@
-package com.itheima.create;
+package hello004.create;
 
 public class ArrayDemo4 {
     public static void main(String[] args) {

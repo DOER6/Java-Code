@@ -1,4 +1,4 @@
-package com.itheima.demo;
+package hello005.demo;
 
 public class Test01 {
     public static void main(String[] args) {
