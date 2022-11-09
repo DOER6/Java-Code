@@ -12,7 +12,7 @@ public class ArrayDemo1 {
 
         // String[] names = new String[]{"牛二", "全蛋儿", "老王"};
         String[] names = {"牛二", "全蛋儿", "老王"};
-
-        System.out.println(scores);
+        //数组变量名中存储的是数组在内存中的地址，数组是引用类型
+        System.out.println(scores+"--"+ages+"--"+names+"--");
     }
 }

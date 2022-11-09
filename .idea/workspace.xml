@@ -5,63 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7302e70b-e6dd-48f7-963a-132927dd2235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hello003/random/MyDigitalGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello003/random/MyRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Example5_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Pillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SonFather/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/Example6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/Example6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/Example6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/Example6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/basic01/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it01/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it01/Beijingman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it01/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it01/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it01/PeopleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/MonthWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/WeekWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it02/YearWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it03/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it03/Simulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it04/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it04/HospitalManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it04/MedicalStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookcontent/it04/hospitalEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello004/demo/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello004/demo/T3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello001/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookcontent/basic01/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookcontent/basic01/E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello001/LiteralDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/LiteralDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello001/NoteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/NoteDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello001/SpeedKeyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/SpeedKeyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello001/ViriableDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/ViriableDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello001/ViriableDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/ViriableDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello001/ViriableDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello001/ViriableDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/create/ArrayAttentionDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/create/ArrayAttentionDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/create/ArrayDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/create/ArrayDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/create/ArrayDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/create/ArrayDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/create/ArrayDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/create/ArrayDemo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/create/ArrayDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/create/ArrayDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello004/demo/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/demo/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hello004/traverse/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello004/traverse/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/create/MethodAttentionDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/create/MethodAttentionDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/create/MethodDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/create/MethodDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/create/MethodDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/create/MethodDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/create/MethodDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/create/MethodDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/demo/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/demo/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/demo/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/demo/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/demo/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/demo/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/demo/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/demo/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/overload/MethodDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/overload/MethodDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/overload/MethodDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/overload/MethodDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/param/MethodDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/param/MethodDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/param/MethodDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/param/MethodDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/param/MethodTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/param/MethodTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/param/MethodTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/param/MethodTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/param/MethodTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/param/MethodTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello005/returndemo/ReturnDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello005/returndemo/ReturnDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/ATM/ATMSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/ATM/ATMSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/ATM/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/ATM/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-arraylist/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringAPIEqualsDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringAPIEqualsDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringAPIOtherDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringAPIOtherDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringExec6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringExec7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello007/api-string/StringExec8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/ATM/ATMSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/ATM/ATMSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/ATM/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/ATM/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/ArrayListTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/ArrayListTest6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-arraylist/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/arraylist/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringAPIEqualsDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringAPIEqualsDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringAPIOtherDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringAPIOtherDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringExec6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringExec7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello007/api-string/StringExec8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello003/hello007/api-string/StringExec8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +79,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -81,6 +90,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GGSk7rAylNotSP7VH8u2lqhVcu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -89,42 +101,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/Java-Code/src/hello007&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Code/Java-Code/src/bookcontent/basic01/Example6_7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java-Code\src\bookcontent\basic01\Example6_7" />
+      <recent name="D:\Code\Tolearn\src\chapter6" />
+      <recent name="D:\Code\Java-Code\javaLearner\src" />
       <recent name="D:\Code\Java-Code\src\hello007" />
       <recent name="D:\Code\Java-Code\src\hello006" />
-      <recent name="D:\Code\Java-Code\src\hello005" />
-      <recent name="D:\Code\Java-Code\src\hello004" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Code\Java-Code\src\hello004" />
-      <recent name="D:\Code\Java-Code\src\hello003" />
-      <recent name="D:\Code\Java-Code\src\hello02" />
+      <recent name="D:\Code\Java-Code\src\bookcontent\basic01" />
+      <recent name="D:\Code\Tolearn\src\chapter6\example1" />
+      <recent name="D:\Code\Tolearn\src\chapter6" />
+      <recent name="D:\Code\Tolearn\src" />
+      <recent name="D:\Code\Java-Code\javaLearner\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomDemo1">
-    <configuration name="BreakAndContinueDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello003.loop.BreakAndContinueDemo10" />
+  <component name="RunManager" selected="Application.read">
+    <configuration name="Example6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcontent.basic01.Example6_4" />
       <module name="Java-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello003.loop.*" />
+          <option name="PATTERN" value="bookcontent.basic01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakAndContinueDemo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello003.loop.BreakAndContinueDemo11" />
+    <configuration name="Example6_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcontent.basic01.Example6_5" />
       <module name="Java-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello003.loop.*" />
+          <option name="PATTERN" value="bookcontent.basic01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDigitalGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello003.random.MyDigitalGame" />
+    <configuration name="Example6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcontent.basic01.Example6_6" />
       <module name="Java-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello003.random.*" />
+          <option name="PATTERN" value="bookcontent.basic01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello003.random.MyRandom" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcontent.basic01.User" />
       <module name="Java-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello003.random.*" />
+          <option name="PATTERN" value="bookcontent.basic01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello003.random.RandomDemo1" />
+    <configuration name="read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcontent.read" />
       <module name="Java-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello003.random.*" />
+          <option name="PATTERN" value="bookcontent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomDemo1" />
-        <item itemvalue="Application.MyDigitalGame" />
-        <item itemvalue="Application.MyRandom" />
-        <item itemvalue="Application.BreakAndContinueDemo11" />
-        <item itemvalue="Application.BreakAndContinueDemo10" />
+        <item itemvalue="Application.read" />
+        <item itemvalue="Application.Example6_6" />
+        <item itemvalue="Application.Example6_5" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Example6_4" />
       </list>
     </recent_temporary>
   </component>
@@ -204,11 +222,53 @@
       <updated>1666013571728</updated>
       <workItem from="1666013573523" duration="4272000" />
       <workItem from="1666058328964" duration="794000" />
-      <workItem from="1666097957436" duration="7258000" />
+      <workItem from="1666097957436" duration="12618000" />
+      <workItem from="1666180473166" duration="3072000" />
+      <workItem from="1666591407301" duration="409000" />
+      <workItem from="1666591998035" duration="1132000" />
+      <workItem from="1666593144239" duration="5220000" />
+      <workItem from="1666782452684" duration="548000" />
+      <workItem from="1666783441281" duration="1025000" />
+      <workItem from="1666784504497" duration="2864000" />
+      <workItem from="1666787607972" duration="956000" />
+      <workItem from="1667181744490" duration="8399000" />
+      <workItem from="1667309038779" duration="1279000" />
+      <workItem from="1667382332662" duration="232000" />
+      <workItem from="1667787115402" duration="8926000" />
+      <workItem from="1667827907631" duration="20000" />
+      <workItem from="1667912340153" duration="1758000" />
+      <workItem from="1667956762043" duration="4258000" />
     </task>
+    <task id="LOCAL-00001" summary="Leraning for git commit,nothing important changed.">
+      <created>1666164993649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666164993649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Leraning for git commit,nothing important changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Leraning for git commit,nothing important changed." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

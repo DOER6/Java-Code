@@ -4,7 +4,7 @@ public class ArrayDemo {
     public static void main(String[] args) {
         // 目标：学会进行数组元素的遍历
         int[] arr = {12, 24, 12, 48, 98};
-        //           0    1   2   3   4
+        //            0    1   2   3   4
 
         // 原始遍历方式
 //        System.out.println(arr[0]);
@@ -19,7 +19,7 @@ public class ArrayDemo {
 
         // 终极数组遍历形式
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
+            System.out.println(arr[i]);//  快捷键：数组名.fori   数组名[i].sout
         }
     }
 }

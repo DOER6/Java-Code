@@ -10,7 +10,7 @@ public class ArrayDemo5 {
 
         // 2、字符数组的元素默认值是多少呢？ 0
         char[] chars = new char[100];
-        System.out.println((int)chars[0]);
+        System.out.println((int)chars[0]);//强制转换
         System.out.println((int)chars[99]);
 
         // 3、浮点型数组的元素默认值是0.0
@@ -18,17 +18,17 @@ public class ArrayDemo5 {
         System.out.println(scores[0]);
         System.out.println(scores[89]);
 
-        // 4、布尔类型的数组
+        // 4、布尔类型的数组 默认值为false
         boolean[] booleans = new boolean[100];
         System.out.println(booleans[0]);
         System.out.println(booleans[99]);
 
-        // 5、引用类型的数组
+        // 5、引用类型的数组 默认值为null
         String[] names = new String[90];
         System.out.println(names[0]);
         System.out.println(names[89]);
 
-        // int[] arrs = new int[3]{30, 40, 50};
+        // int[] arrs = new int[3]{30, 40, 50};   //静态、动态数组不可以混用
 
         int[] a = {1,2,3};
         int[] b = {1,2,3};

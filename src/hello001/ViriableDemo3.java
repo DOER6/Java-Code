@@ -3,7 +3,6 @@ package hello001;
  学螺丝
  */
 public class ViriableDemo3 {
-
     public class VariableDemo3 {
         public static void main(String[] args) {
             // 目标：掌握常用8种基本数据类型定义变量。

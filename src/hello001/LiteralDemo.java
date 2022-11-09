@@ -11,7 +11,7 @@ public class LiteralDemo {
         System.out.println('a');
         System.out.println('A');
         System.out.println('0');
-        System.out.println('中');
+        System.out.println("中");
         //System.out.println('中国'); // 报错的
         //System.out.println(''); // 报错的
         System.out.println(' ');

@@ -1,4 +1,5 @@
-package hello007.api;
+package hello003.hello007.arraylist;
+
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package hello007.api;
+package hello003.hello007.arraylist;
 
 public class Student {
     private String studyId;

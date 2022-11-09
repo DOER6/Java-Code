@@ -1,5 +1,6 @@
 package hello004.create;
 
+
 public class ArrayAttentionDemo3 {
     public static void main(String[] args) {
         // 目标：理解数组的注意事项

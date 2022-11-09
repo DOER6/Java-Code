@@ -22,7 +22,7 @@ public class ArrayDemo2 {
         System.out.println(ages.length);
 
 //        int[] arr = {};
-//        System.out.println(arr.length - 1);
+//        System.out.println(arr.length - 1);//数组的最大索引，要求索引大于等于1:数组名.length-1；
 
     }
 }
