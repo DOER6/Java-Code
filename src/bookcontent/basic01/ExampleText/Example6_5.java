@@ -1,4 +1,4 @@
-package bookcontent.basic01;
+package bookcontent.basic01.ExampleText;
 
 interface CompurerAverage {
     public double average(double a,double b);
